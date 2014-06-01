@@ -1,0 +1,6 @@
+name: iebug
+description: A sample web application
+dependencies:
+  browser: any
+  angular: any
+  shadow_dom: any
