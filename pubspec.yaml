@@ -3,4 +3,4 @@ description: A sample web application
 dependencies:
   browser: 0.10.0+2
   angular: 0.11.0
-  shadow_dom: 0.10.0
+  web_components: any
